@@ -1,0 +1,10 @@
+## ignore all
+/*
+
+# except
+!/.gitignore
+!/README.md
+!/notes/
+/notes/*
+!/notes/*.pdf
+
